@@ -1,0 +1,6 @@
+#FileLock
+#Sun Dec 27 07:06:01 AST 2020
+hostName=192.168.1.12
+id=176a25fe1306e3f6f1d8073af6b2ead5ec20ec1a57b
+method=file
+server=192.168.1.12\:60780

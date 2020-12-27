@@ -1,0 +1,19 @@
+@(post: Form[CreatePostForm])(implicit request: MessagesRequestHeader)
+
+@import helper._
+
+@request.flash.get("success").map { key =>
+@request.messages(key)
+}
+
+@main("Welcome to Play!!") {
+@form(routes.PostController.addPost()) {
+@inputText(post("nickname"))
+@inputText(post("post"))
+@CSRF.formField
+
+<div class="buttons">
+  <input type="submit" value="Add Post" />
+</div>
+}
+}

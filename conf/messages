@@ -1,0 +1,6 @@
+# https://www.playframework.com/documentation/latest/ScalaI18N
+
+nickname = Nickname
+post = Post
+
+post.created = Your post has been submitted successfully!

@@ -1,0 +1,23 @@
+INFO  time: initialize in 0.57s
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/PostController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/PostController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/HomeController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/HomeController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/models/Post.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/models/Post.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/HomeController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/PostController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/build.sbt
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/build.sbt
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/models/PostRepository.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/models/PostRepository.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/models/Post.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/PostController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/HomeController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/HomeController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/.g8/form/app/controllers/$model__Camel$Controller.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/app/controllers/PostController.scala
+WARN  no build target: /Users/majdsaleh/Desktop/play-postgresql-infra/play-scala-restful-api/.g8/form/app/controllers/$model__Camel$Controller.scala
